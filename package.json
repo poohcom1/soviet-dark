@@ -1,0 +1,26 @@
+{
+    "name": "soviet-dark",
+    "displayName": "Soviet Dark",
+    "description": "For the motherland",
+    "publisher": "poohcom1",
+    "repository": {
+        "url": "https://github.com/poohcom1/soviet-dark.git",
+        "type": "git"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Soviet Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Soviet Dark-color-theme.json"
+            }
+        ]
+    }
+}
