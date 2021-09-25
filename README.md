@@ -1,4 +1,4 @@
-# Soviet Dark
+# Soviet Dark VS Code Theme
 
 For the motherland!
 
