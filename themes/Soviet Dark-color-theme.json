@@ -6,8 +6,8 @@
 		"editor.foreground": "#b9b9b9",
 		"activityBar.background": "#000000",
 		"activityBar.inactiveForeground": "#636363",
-		"activityBar.foreground": "#b90000",
-		"activityBar.activeBackground": "#381515",
+		"activityBar.foreground": "#fffd69",
+		"activityBar.activeBackground": "#470d0d",
 		"activityBarBadge.background": "#b90000",
 		"activityBarBadge.foreground": "#ffffff",
 		"editorGroupHeader.tabsBackground": "#13131a",
@@ -19,8 +19,9 @@
 		"list.activeSelectionBackground": "#ff000060",
 		
 		"statusBar.background": "#333333",
-		"statusBar.debuggingBackground": "#8d4400",
-		"statusBar.debuggingForeground": "#535353",
+		"statusBar.debuggingBackground": "#eeda22",
+		"statusBar.debuggingForeground": "#0f0f0f",
+		"statusBar.noFolderBackground": "#b90000",
 		"titleBar.activeBackground": "#532222",
 		
 		"sideBarTitle.foreground": "#ffffff",
@@ -38,7 +39,7 @@
 				"comment.block.handlebars"
 			],
 			"settings": {
-				"foreground": "#505050"
+				"foreground": "#547a43"
 			}
 		},
 		{
@@ -54,7 +55,7 @@
 				"comment.line.number-sign.yaml"
 			],
 			"settings": {
-				"foreground": "#608b4e"
+				"foreground": "#547a43"
 			}
 		},
 		{
@@ -503,7 +504,7 @@
 				"source.cs comment.block.documentation.cs meta.tag.cs punctuation.separator.equals.cs"
 			],
 			"settings": {
-				"foreground": "#505050"
+				"foreground": "#547a43"
 			}
 		},
 		{
@@ -1224,7 +1225,7 @@
 		{
 			"scope": "punctuation.definition.comment.js",
 			"settings": {
-				"foreground": "#404040"
+				"foreground": "#547a43"
 			}
 		},
 		{
@@ -1233,7 +1234,7 @@
 				"meta.embedded.expression.js source.js.jsx comment.block.js"
 			],
 			"settings": {
-				"foreground": "#505050"
+				"foreground": "#547a43"
 			}
 		},
 		{
@@ -1685,7 +1686,7 @@
 				"meta.link.inline.org markup.underline.link.org"
 			],
 			"settings": {
-				"foreground": "#505050"
+				"foreground": "#547a43"
 			}
 		},
 		{
@@ -2298,7 +2299,7 @@
 				"punctuation.separator.key-value.mapping.yaml"
 			],
 			"settings": {
-				"foreground": "#505050"
+				"foreground": "#547a43"
 			}
 		},
 		{
