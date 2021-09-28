@@ -2,7 +2,7 @@
 	"name": "Soviet Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#131313",
+		"editor.background": "#1f1f1f",
 		"editor.foreground": "#b9b9b9",
 		"activityBar.background": "#000000",
 		"activityBar.inactiveForeground": "#636363",
@@ -19,7 +19,7 @@
 		"list.activeSelectionBackground": "#ff000060",
 		
 		"statusBar.background": "#333333",
-		"statusBar.debuggingBackground": "#eeda22",
+		"statusBar.debuggingBackground": "#efff00",
 		"statusBar.debuggingForeground": "#0f0f0f",
 		"statusBar.noFolderBackground": "#b90000",
 		"titleBar.activeBackground": "#532222",
@@ -268,10 +268,17 @@
 		{
 			"scope": [
 				"comment.block.c",
+			],
+			"settings": {
+				"foreground": "#8ead6f"
+			}
+		},
+				{
+			"scope": [
 				"punctuation.terminator.statement.c"
 			],
 			"settings": {
-				"foreground": "#2fa81f"
+				"foreground": "#929292"
 			}
 		},
 		{
@@ -1629,7 +1636,7 @@
 				"markup.underline.link.image.markdown"
 			],
 			"settings": {
-				"foreground": "#404040"
+				"foreground": "#7a7a7a"
 			}
 		},
 		{
