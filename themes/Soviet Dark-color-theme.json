@@ -267,10 +267,18 @@
 		},
 		{
 			"scope": [
+				"entity.name.function.preprocessor.c"
+			],
+			"settings": {
+				"foreground": "#569cd6",
+			}
+		},
+		{
+			"scope": [
 				"comment.block.c",
 			],
 			"settings": {
-				"foreground": "#8ead6f"
+				"foreground": "#608b4e"
 			}
 		},
 				{
@@ -1655,7 +1663,7 @@
 				"inline-dollars"
 			],
 			"settings": {
-				"foreground": "#303030"
+				"foreground": "#8f8f8f"
 			}
 		},
 		{
